@@ -1,10 +1,10 @@
 {
-	"version": "0.2.0",
+	"version": "0.1.0",
 	"pub_date": "2024-03-03T19:31:00-06:00",
 	"platforms": {
 		"windows-x86_64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWG5oeGZnNGlFUDM0ZmVKU3R4am40TFY0UFV1TWx4aWFwRndBL080bnpFOU53TGxZK0J6clJNVnFhdVZHcjN5dnhrN29GMDNmUXpaRmI5Rjg1MW1jUVRuOHQrMm9NOEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NDI5NTExCWZpbGU6c2lnbmF2b3hfMC4xLjBfeDY0X2VzLUVTLm1zaS56aXAKZVF2RVNick8vUldnK1RhbmFnN0p1THYyV0ZFaEE2NkNtRXh6d3VHa1pxTzJNOFhTcDkxN3UrbWZSNFVhaXo4QzhRTzBsVXJMUUxBakxLZUROZlUzREE9PQo",
-			"url": "https://signavox.org/releases/updates/0.1.0/signavox_0.1.0_x64_es-ES.msi.zip"
+			"url": "https://signavox.org/releases/0.1.0/signavox_0.1.0_x64_es-ES.msi.zip"
 		}
 	}
 }
