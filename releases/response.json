@@ -1,11 +1,11 @@
 {
-	"version": "0.1.0",
-	"pub_date": "2024-03-03T20:04:00-06:00",
-	"notes": "✨ Añadida: Barra de título.\n✨ Añadido: Menú de navegación en la barra lateral.\n✨ Añadida: Ventana principal.\n✨ Añadida: Ventana \"Acerca de\".",
+	"version": "0.2.0",
+	"pub_date": "2024-03-04T00:29:00-06:00",
+	"notes": "🚀 Actualizada: Interfaz de usuario.\n✨ Añadido: Actualizaciones automáticas.\n😎 Solucionado: Errores en las ventanas.",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWG5oeGZnNGlFUDlEWHBOeVBHUkRrSThRMUdZL0ExYTliMkZBbDdTL3czdkNUclBjWXNjZTBhQlF0NEZMQUJMVkpYTEtvZGhMMGovbWw0dlFJeDk1UDBoOWtra0x1eVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NDMxNDkyCWZpbGU6c2lnbmF2b3hfMC4xLjBfeDY0X2VzLUVTLm1zaS56aXAKVmNlbzlSbUd0c0dTNDNnSXRRamp5em5IZ3NoU3JGZWtxZXVMUmhIeG1uOU45aUJvN2JkT3RILzhSV3hnSnVrL09uV25sRkVuOGs1cnZvRFlaVFgxQXc9PQo=",
-			"url": "https://signavox.org/releases/0.1.0/signavox_0.1.0_x64_es-ES.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWG5oeGZnNGlFUDdXdTU4NzBDVVRyOEhISG9CcTI0Z2J4c1JxMkYycDhlTjVoR3UrVlZtUzRNQndVKytXM0JXZmJWYXh6cmkrN0Zid0RRK2hraEtQNkxIbVc4RjM4UUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5NTMzNzc0CWZpbGU6c2lnbmF2b3hfMC4yLjBfeDY0X2VzLUVTLm1zaS56aXAKNGw4ZDhQRGtqeVhPVXE4RDljcXJodmhUVEpFT1BNcERKSEVZYVFZTFVxVlBIUDVRL0VwakJ1SWVIVHd6NDlCMWV1Tm9ScWJ3WnF4cEJzOE1WeWFFRGc9PQo=",
+			"url": "https://signavox.org/releases/0.2.0/signavox_0.2.0_x64_es-ES.msi.zip"
 		}
 	}
 }
